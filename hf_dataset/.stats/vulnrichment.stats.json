@@ -1,12 +1,12 @@
 {
-  "totalTriples": 666581,
-  "uniqueSubjects": 143217,
+  "totalTriples": 666578,
+  "uniqueSubjects": 143216,
   "uniqueObjects": 23591,
   "uniquePredicates": 7,
   "bySource": [
     {
       "source": "cve",
-      "count": 666581
+      "count": 666578
     },
     {
       "source": "cpe",
@@ -19,16 +19,16 @@
   ],
   "topPredicates": [
     {
-      "predicate": "ssvc-exploitation",
-      "count": 143221
-    },
-    {
       "predicate": "ssvc-automatable",
-      "count": 143221
+      "count": 143220
     },
     {
       "predicate": "ssvc-technical-impact",
-      "count": 143221
+      "count": 143220
+    },
+    {
+      "predicate": "ssvc-exploitation",
+      "count": 143220
     },
     {
       "predicate": "adp-affects-cpe",
@@ -58,11 +58,11 @@
     },
     {
       "entity": "total",
-      "count": 48271
+      "count": 48270
     },
     {
       "entity": "poc",
-      "count": 32988
+      "count": 32987
     },
     {
       "entity": "yes",
@@ -123,5 +123,5 @@
       "predicate": "adp-related-weakness"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:24Z"
+  "generatedAt": "2026-04-19T13:34:13Z"
 }

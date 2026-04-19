@@ -1,7 +1,7 @@
 {
-  "totalTriples": 18500011,
-  "uniqueSubjects": 2018910,
-  "uniqueObjects": 3979324,
+  "totalTriples": 18501081,
+  "uniqueSubjects": 2019004,
+  "uniqueObjects": 3979699,
   "uniquePredicates": 114,
   "bySource": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "source": "cve",
-      "count": 4983372
+      "count": 4983395
     },
     {
       "source": "exploitdb",
@@ -30,7 +30,7 @@
     },
     {
       "source": "attack",
-      "count": 89044
+      "count": 89551
     },
     {
       "source": "sigma",
@@ -68,7 +68,7 @@
     },
     {
       "predicate": "rdf:type",
-      "count": 2017897
+      "count": 2018027
     },
     {
       "predicate": "title",
@@ -76,11 +76,11 @@
     },
     {
       "predicate": "modified",
-      "count": 1577123
+      "count": 1577253
     },
     {
       "predicate": "created",
-      "count": 1577120
+      "count": 1577250
     },
     {
       "predicate": "part",
@@ -96,11 +96,15 @@
     },
     {
       "predicate": "description",
-      "count": 399258
+      "count": 399388
     },
     {
-      "predicate": "date-updated",
-      "count": 327713
+      "predicate": "epss-score",
+      "count": 327724
+    },
+    {
+      "predicate": "epss-percentile",
+      "count": 327724
     },
     {
       "predicate": "state",
@@ -111,12 +115,8 @@
       "count": 327713
     },
     {
-      "predicate": "epss-percentile",
-      "count": 327711
-    },
-    {
-      "predicate": "epss-score",
-      "count": 327711
+      "predicate": "date-updated",
+      "count": 327713
     },
     {
       "predicate": "platform",
@@ -127,23 +127,23 @@
       "count": 170605
     },
     {
-      "predicate": "ssvc-automatable",
-      "count": 143221
+      "predicate": "ssvc-technical-impact",
+      "count": 143220
     },
     {
       "predicate": "ssvc-exploitation",
-      "count": 143221
+      "count": 143220
     },
     {
-      "predicate": "ssvc-technical-impact",
-      "count": 143221
-    },
-    {
-      "predicate": "cvss-base-score",
-      "count": 139618
+      "predicate": "ssvc-automatable",
+      "count": 143220
     },
     {
       "predicate": "cvss-severity",
+      "count": 139618
+    },
+    {
+      "predicate": "cvss-base-score",
       "count": 139618
     },
     {
@@ -169,11 +169,11 @@
       "count": 1376172
     },
     {
-      "entity": "Vulnerability",
+      "entity": "PUBLISHED",
       "count": 327713
     },
     {
-      "entity": "PUBLISHED",
+      "entity": "Vulnerability",
       "count": 327713
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "entity": "total",
-      "count": 48271
+      "count": 48270
     }
   ],
   "crossSourceLinks": [
@@ -331,16 +331,16 @@
       "predicate": "related-attack-technique"
     },
     {
-      "from": "cve",
-      "to": "d3fend",
-      "count": 4,
-      "predicate": "product"
-    },
-    {
       "from": "ghsa",
       "to": "attack",
       "count": 4,
       "predicate": "summary"
+    },
+    {
+      "from": "cve",
+      "to": "d3fend",
+      "count": 4,
+      "predicate": "product"
     },
     {
       "from": "d3fend",
@@ -355,7 +355,7 @@
       "predicate": "product"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:15Z",
+  "generatedAt": "2026-04-19T13:34:03Z",
   "sourceDetails": {
     "attack": {
       "triples": 49622,
@@ -418,8 +418,8 @@
       "predicates": 6
     },
     "epss": {
-      "triples": 655422,
-      "entities": 327711,
+      "triples": 655448,
+      "entities": 327724,
       "predicates": 2
     },
     "exploitdb": {
@@ -448,8 +448,8 @@
       "predicates": 17
     },
     "vulnrichment": {
-      "triples": 666581,
-      "entities": 143217,
+      "triples": 666578,
+      "entities": 143216,
       "predicates": 7
     }
   }

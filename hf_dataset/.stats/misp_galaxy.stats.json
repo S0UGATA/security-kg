@@ -85,11 +85,11 @@
   ],
   "topConnectedEntities": [
     {
-      "entity": "References",
+      "entity": "references",
       "count": 5219
     },
     {
-      "entity": "references",
+      "entity": "References",
       "count": 5219
     },
     {
@@ -101,11 +101,11 @@
       "count": 3683
     },
     {
-      "entity": "SigmaRule",
+      "entity": "sigma-rules",
       "count": 3110
     },
     {
-      "entity": "sigma-rules",
+      "entity": "SigmaRule",
       "count": 3110
     },
     {
@@ -117,11 +117,11 @@
       "count": 2547
     },
     {
-      "entity": "naics",
+      "entity": "Naics",
       "count": 2125
     },
     {
-      "entity": "Naics",
+      "entity": "naics",
       "count": 2125
     },
     {
@@ -153,5 +153,5 @@
       "predicate": "related-attack-id"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:24Z"
+  "generatedAt": "2026-04-19T13:34:13Z"
 }

@@ -43,7 +43,7 @@
       "count": 944
     },
     {
-      "predicate": "rdf:type",
+      "predicate": "name",
       "count": 944
     },
     {
@@ -51,7 +51,7 @@
       "count": 944
     },
     {
-      "predicate": "name",
+      "predicate": "rdf:type",
       "count": 944
     },
     {
@@ -153,5 +153,5 @@
       "predicate": "related-attack-pattern"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:23Z"
+  "generatedAt": "2026-04-19T13:34:11Z"
 }

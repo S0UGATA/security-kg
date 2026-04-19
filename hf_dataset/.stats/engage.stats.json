@@ -73,7 +73,7 @@
       "count": 64
     },
     {
-      "entity": "EAC0014",
+      "entity": "EAV0002",
       "count": 62
     },
     {
@@ -81,15 +81,15 @@
       "count": 62
     },
     {
-      "entity": "EAV0013",
-      "count": 62
-    },
-    {
       "entity": "EAV0016",
       "count": 62
     },
     {
-      "entity": "EAV0002",
+      "entity": "EAC0014",
+      "count": 62
+    },
+    {
+      "entity": "EAV0013",
       "count": 62
     },
     {
@@ -109,5 +109,5 @@
       "predicate": "vulnerability-of"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:23Z"
+  "generatedAt": "2026-04-19T13:34:11Z"
 }

@@ -31,19 +31,19 @@
       "count": 267
     },
     {
-      "predicate": "modified",
-      "count": 266
-    },
-    {
-      "predicate": "rdf:type",
-      "count": 266
-    },
-    {
       "predicate": "name",
       "count": 266
     },
     {
+      "predicate": "modified",
+      "count": 266
+    },
+    {
       "predicate": "created",
+      "count": 266
+    },
+    {
+      "predicate": "rdf:type",
       "count": 266
     },
     {
@@ -83,11 +83,11 @@
       "count": 5
     },
     {
-      "predicate": "revoked",
+      "predicate": "revoked-by",
       "count": 2
     },
     {
-      "predicate": "revoked-by",
+      "predicate": "revoked",
       "count": 2
     }
   ],
@@ -117,15 +117,15 @@
       "count": 50
     },
     {
-      "entity": "A0003",
-      "count": 48
-    },
-    {
       "entity": "A0002",
       "count": 48
     },
     {
-      "entity": "A0010",
+      "entity": "A0003",
+      "count": 48
+    },
+    {
+      "entity": "Windows",
       "count": 47
     },
     {
@@ -133,7 +133,7 @@
       "count": 47
     },
     {
-      "entity": "Windows",
+      "entity": "A0010",
       "count": 47
     },
     {
@@ -161,5 +161,5 @@
       "predicate": "detects"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:15Z"
+  "generatedAt": "2026-04-19T13:34:04Z"
 }
