@@ -23,15 +23,15 @@
       "count": 3602
     },
     {
+      "predicate": "name",
+      "count": 2826
+    },
+    {
       "predicate": "modified",
       "count": 2826
     },
     {
       "predicate": "rdf:type",
-      "count": 2826
-    },
-    {
-      "predicate": "name",
       "count": 2826
     },
     {
@@ -169,5 +169,5 @@
       "predicate": "detects"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:15Z"
+  "generatedAt": "2026-04-19T13:34:04Z"
 }

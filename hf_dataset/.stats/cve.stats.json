@@ -39,15 +39,11 @@
       "count": 500939
     },
     {
-      "predicate": "assigner",
+      "predicate": "rdf:type",
       "count": 327713
     },
     {
       "predicate": "date-published",
-      "count": 327713
-    },
-    {
-      "predicate": "rdf:type",
       "count": 327713
     },
     {
@@ -59,15 +55,19 @@
       "count": 327713
     },
     {
+      "predicate": "assigner",
+      "count": 327713
+    },
+    {
       "predicate": "description",
       "count": 320388
     },
     {
-      "predicate": "cvss-base-score",
+      "predicate": "cvss-severity",
       "count": 139618
     },
     {
-      "predicate": "cvss-severity",
+      "predicate": "cvss-base-score",
       "count": 139618
     },
     {
@@ -177,5 +177,5 @@
       "predicate": "product"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:22Z"
+  "generatedAt": "2026-04-19T13:34:11Z"
 }
