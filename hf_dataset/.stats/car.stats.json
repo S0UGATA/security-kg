@@ -47,15 +47,7 @@
       "count": 108
     },
     {
-      "predicate": "submission-date",
-      "count": 102
-    },
-    {
       "predicate": "description",
-      "count": 102
-    },
-    {
-      "predicate": "maps-to-d3fend",
       "count": 102
     },
     {
@@ -63,11 +55,19 @@
       "count": 102
     },
     {
+      "predicate": "information-domain",
+      "count": 102
+    },
+    {
       "predicate": "rdf:type",
       "count": 102
     },
     {
-      "predicate": "information-domain",
+      "predicate": "submission-date",
+      "count": 102
+    },
+    {
+      "predicate": "maps-to-d3fend",
       "count": 102
     }
   ],
@@ -147,5 +147,5 @@
       "predicate": "maps-to-d3fend"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:15Z"
+  "generatedAt": "2026-04-20T08:03:11Z"
 }

@@ -31,11 +31,11 @@
       "count": 267
     },
     {
-      "predicate": "modified",
+      "predicate": "created",
       "count": 266
     },
     {
-      "predicate": "rdf:type",
+      "predicate": "modified",
       "count": 266
     },
     {
@@ -43,7 +43,7 @@
       "count": 266
     },
     {
-      "predicate": "created",
+      "predicate": "rdf:type",
       "count": 266
     },
     {
@@ -117,19 +117,19 @@
       "count": 50
     },
     {
-      "entity": "A0003",
-      "count": 48
-    },
-    {
       "entity": "A0002",
       "count": 48
     },
     {
-      "entity": "A0010",
-      "count": 47
+      "entity": "A0003",
+      "count": 48
     },
     {
       "entity": "A0018",
+      "count": 47
+    },
+    {
+      "entity": "A0010",
       "count": 47
     },
     {
@@ -161,5 +161,5 @@
       "predicate": "detects"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:15Z"
+  "generatedAt": "2026-04-20T08:03:11Z"
 }
