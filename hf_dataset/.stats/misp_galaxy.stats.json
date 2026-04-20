@@ -93,11 +93,11 @@
       "count": 5219
     },
     {
-      "entity": "malpedia",
+      "entity": "MalpediaEntry",
       "count": 3683
     },
     {
-      "entity": "MalpediaEntry",
+      "entity": "malpedia",
       "count": 3683
     },
     {
@@ -137,11 +137,11 @@
       "count": 1309
     },
     {
-      "entity": "nice-framework-tasks",
+      "entity": "NiceFrameworkTasks",
       "count": 1084
     },
     {
-      "entity": "NiceFrameworkTasks",
+      "entity": "nice-framework-tasks",
       "count": 1084
     }
   ],
@@ -153,5 +153,5 @@
       "predicate": "related-attack-id"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:24Z"
+  "generatedAt": "2026-04-20T08:03:20Z"
 }

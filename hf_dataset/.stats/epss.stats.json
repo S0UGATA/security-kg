@@ -1,86 +1,86 @@
 {
-  "totalTriples": 655422,
-  "uniqueSubjects": 327711,
-  "uniqueObjects": 84806,
+  "totalTriples": 655448,
+  "uniqueSubjects": 327724,
+  "uniqueObjects": 84785,
   "uniquePredicates": 2,
   "bySource": [
     {
       "source": "cve",
-      "count": 655422
+      "count": 655448
     }
   ],
   "topPredicates": [
     {
       "predicate": "epss-score",
-      "count": 327711
+      "count": 327724
     },
     {
       "predicate": "epss-percentile",
-      "count": 327711
+      "count": 327724
     }
   ],
   "topConnectedEntities": [
     {
       "entity": "0.00099",
-      "count": 1832
+      "count": 1839
     },
     {
       "entity": "0.00015",
-      "count": 1819
+      "count": 1825
     },
     {
       "entity": "0.00051",
-      "count": 1689
+      "count": 1674
     },
     {
       "entity": "0.00017",
-      "count": 1654
+      "count": 1650
     },
     {
       "entity": "0.00016",
-      "count": 1612
+      "count": 1614
     },
     {
       "entity": "0.00018",
-      "count": 1569
+      "count": 1561
     },
     {
       "entity": "0.00014",
-      "count": 1465
+      "count": 1475
     },
     {
       "entity": "0.00013",
-      "count": 1440
+      "count": 1442
     },
     {
       "entity": "0.00039",
-      "count": 1412
+      "count": 1418
+    },
+    {
+      "entity": "0.27427",
+      "count": 1346
     },
     {
       "entity": "0.00034",
-      "count": 1382
+      "count": 1338
     },
     {
       "entity": "0.00012",
-      "count": 1370
-    },
-    {
-      "entity": "0.27468",
-      "count": 1348
+      "count": 1331
     },
     {
       "entity": "0.00138",
-      "count": 1336
+      "count": 1329
     },
     {
       "entity": "0.00036",
-      "count": 1280
+      "count": 1278
     },
     {
       "entity": "0.00043",
-      "count": 1280
+      "count": 1271
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-04-19T12:08:23Z"
+  "generatedAt": "2026-04-20T08:03:19Z"
 }

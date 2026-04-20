@@ -1,7 +1,7 @@
 {
   "totalTriples": 336557,
   "uniqueSubjects": 29190,
-  "uniqueObjects": 144843,
+  "uniqueObjects": 144844,
   "uniquePredicates": 10,
   "bySource": [
     {
@@ -145,5 +145,5 @@
       "predicate": "summary"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:23Z"
+  "generatedAt": "2026-04-20T08:03:20Z"
 }

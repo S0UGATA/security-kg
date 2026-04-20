@@ -23,15 +23,15 @@
       "count": 3808
     },
     {
-      "predicate": "status",
-      "count": 3234
-    },
-    {
       "predicate": "title",
       "count": 3234
     },
     {
       "predicate": "rdf:type",
+      "count": 3234
+    },
+    {
+      "predicate": "description",
       "count": 3234
     },
     {
@@ -43,11 +43,11 @@
       "count": 3234
     },
     {
-      "predicate": "date",
+      "predicate": "status",
       "count": 3234
     },
     {
-      "predicate": "description",
+      "predicate": "date",
       "count": 3234
     },
     {
@@ -139,5 +139,5 @@
       "predicate": "title"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:24Z"
+  "generatedAt": "2026-04-20T08:03:20Z"
 }

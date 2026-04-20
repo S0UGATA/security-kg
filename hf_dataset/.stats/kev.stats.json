@@ -15,15 +15,19 @@
   ],
   "topPredicates": [
     {
-      "predicate": "rdf:type",
+      "predicate": "kev-product",
       "count": 1569
     },
     {
-      "predicate": "kev-ransomware-use",
+      "predicate": "kev-name",
       "count": 1569
     },
     {
-      "predicate": "kev-date-added",
+      "predicate": "kev-description",
+      "count": 1569
+    },
+    {
+      "predicate": "kev-vendor",
       "count": 1569
     },
     {
@@ -39,19 +43,15 @@
       "count": 1569
     },
     {
-      "predicate": "kev-product",
+      "predicate": "kev-ransomware-use",
       "count": 1569
     },
     {
-      "predicate": "kev-vendor",
+      "predicate": "rdf:type",
       "count": 1569
     },
     {
-      "predicate": "kev-name",
-      "count": 1569
-    },
-    {
-      "predicate": "kev-description",
+      "predicate": "kev-date-added",
       "count": 1569
     },
     {
@@ -129,5 +129,5 @@
       "predicate": "related-weakness"
     }
   ],
-  "generatedAt": "2026-04-19T12:08:23Z"
+  "generatedAt": "2026-04-20T08:03:20Z"
 }
