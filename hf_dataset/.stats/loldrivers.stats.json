@@ -1,50 +1,50 @@
 {
-  "totalTriples": 11738,
-  "uniqueSubjects": 660,
-  "uniqueObjects": 6978,
+  "totalTriples": 12696,
+  "uniqueSubjects": 687,
+  "uniqueObjects": 7570,
   "uniquePredicates": 9,
   "bySource": [
     {
       "source": "loldrivers",
-      "count": 11738
+      "count": 12696
     }
   ],
   "topPredicates": [
     {
       "predicate": "sha1",
-      "count": 2125
+      "count": 2303
     },
     {
       "predicate": "md5",
-      "count": 2108
+      "count": 2286
     },
     {
       "predicate": "sha256",
-      "count": 2107
+      "count": 2285
     },
     {
       "predicate": "vendor",
-      "count": 1384
+      "count": 1542
     },
     {
       "predicate": "product",
-      "count": 1374
+      "count": 1532
     },
     {
       "predicate": "category",
-      "count": 660
-    },
-    {
-      "predicate": "name",
-      "count": 660
-    },
-    {
-      "predicate": "maps-to-technique",
-      "count": 660
+      "count": 687
     },
     {
       "predicate": "rdf:type",
-      "count": 660
+      "count": 687
+    },
+    {
+      "predicate": "name",
+      "count": 687
+    },
+    {
+      "predicate": "maps-to-technique",
+      "count": 687
     }
   ],
   "topConnectedEntities": [
@@ -54,15 +54,15 @@
     },
     {
       "entity": "LOLDriver",
-      "count": 660
+      "count": 687
     },
     {
       "entity": "T1068",
-      "count": 623
+      "count": 642
     },
     {
       "entity": "vulnerable driver",
-      "count": 545
+      "count": 565
     },
     {
       "entity": "0f59ce3b-20ac-41ba-8010-2abc74827eb8",
@@ -97,18 +97,18 @@
       "count": 164
     },
     {
+      "entity": "207b30f5-e3da-4eb2-829f-54b946eb526a",
+      "count": 164
+    },
+    {
       "entity": "0567c6c4-282f-406f-9369-7f876b899c25",
       "count": 159
     },
     {
       "entity": "cpuz.sys",
       "count": 149
-    },
-    {
-      "entity": "mimidrv.sys",
-      "count": 146
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-08-10T07:29:06Z"
+  "generatedAt": "2026-09-14T11:45:07Z"
 }

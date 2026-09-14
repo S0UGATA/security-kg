@@ -1,54 +1,58 @@
 {
-  "totalTriples": 205917,
-  "uniqueSubjects": 37802,
-  "uniqueObjects": 76533,
-  "uniquePredicates": 18,
+  "totalTriples": 221047,
+  "uniqueSubjects": 38532,
+  "uniqueObjects": 77293,
+  "uniquePredicates": 19,
   "bySource": [
     {
       "source": "misp_galaxy",
-      "count": 205917
+      "count": 221047
     }
   ],
   "topPredicates": [
     {
+      "predicate": "uses",
+      "count": 35913
+    },
+    {
       "predicate": "misp-related",
-      "count": 38265
-    },
-    {
-      "predicate": "galaxy",
-      "count": 34094
-    },
-    {
-      "predicate": "name",
-      "count": 34094
+      "count": 35835
     },
     {
       "predicate": "rdf:type",
-      "count": 34094
+      "count": 34121
+    },
+    {
+      "predicate": "galaxy",
+      "count": 34121
+    },
+    {
+      "predicate": "name",
+      "count": 34121
     },
     {
       "predicate": "description",
-      "count": 29685
-    },
-    {
-      "predicate": "uses",
-      "count": 20617
+      "count": 29712
     },
     {
       "predicate": "synonym",
-      "count": 5283
+      "count": 5291
     },
     {
       "predicate": "related-attack-id",
-      "count": 3973
+      "count": 5123
     },
     {
       "predicate": "used-by",
-      "count": 2235
+      "count": 2248
     },
     {
       "predicate": "country",
-      "count": 1301
+      "count": 1306
+    },
+    {
+      "predicate": "targets",
+      "count": 926
     },
     {
       "predicate": "targets-country",
@@ -56,7 +60,7 @@
     },
     {
       "predicate": "subtechnique-of",
-      "count": 563
+      "count": 674
     },
     {
       "predicate": "targets-sector",
@@ -71,12 +75,12 @@
       "count": 101
     },
     {
-      "predicate": "targets",
-      "count": 84
-    },
-    {
       "predicate": "variant-of",
       "count": 43
+    },
+    {
+      "predicate": "attributed-to",
+      "count": 27
     },
     {
       "predicate": "similar-to",
@@ -102,11 +106,11 @@
     },
     {
       "entity": "sigma-rules",
-      "count": 3133
+      "count": 3144
     },
     {
       "entity": "SigmaRule",
-      "count": 3133
+      "count": 3144
     },
     {
       "entity": "ransomware",
@@ -117,19 +121,19 @@
       "count": 2583
     },
     {
-      "entity": "VerisFramework",
-      "count": 2207
-    },
-    {
       "entity": "veris-framework",
       "count": 2207
     },
     {
-      "entity": "Naics",
-      "count": 2125
+      "entity": "VerisFramework",
+      "count": 2207
     },
     {
       "entity": "naics",
+      "count": 2125
+    },
+    {
+      "entity": "Naics",
       "count": 2125
     },
     {
@@ -146,5 +150,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-08-10T07:29:05Z"
+  "generatedAt": "2026-09-14T11:45:07Z"
 }
