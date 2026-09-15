@@ -1,64 +1,64 @@
 {
-  "totalTriples": 3707,
-  "uniqueSubjects": 240,
-  "uniqueObjects": 1478,
+  "totalTriples": 3768,
+  "uniqueSubjects": 245,
+  "uniqueObjects": 1506,
   "uniquePredicates": 9,
   "bySource": [
     {
       "source": "lolbas",
-      "count": 3707
+      "count": 3768
     }
   ],
   "topPredicates": [
     {
       "predicate": "full-path",
-      "count": 602
-    },
-    {
-      "predicate": "usecase",
-      "count": 477
-    },
-    {
-      "predicate": "maps-to-technique",
-      "count": 477
+      "count": 613
     },
     {
       "predicate": "privileges",
-      "count": 477
-    },
-    {
-      "predicate": "category",
-      "count": 477
+      "count": 484
     },
     {
       "predicate": "platform",
-      "count": 477
+      "count": 484
     },
     {
-      "predicate": "description",
-      "count": 240
+      "predicate": "usecase",
+      "count": 484
+    },
+    {
+      "predicate": "maps-to-technique",
+      "count": 484
+    },
+    {
+      "predicate": "category",
+      "count": 484
     },
     {
       "predicate": "name",
-      "count": 240
+      "count": 245
     },
     {
       "predicate": "rdf:type",
-      "count": 240
+      "count": 245
+    },
+    {
+      "predicate": "description",
+      "count": 245
     }
   ],
   "topConnectedEntities": [
     {
       "entity": "User",
-      "count": 414
+      "count": 420
     },
     {
       "entity": "Execute",
-      "count": 257
+      "count": 262
     },
     {
       "entity": "LOLBinary",
-      "count": 240
+      "count": 245
     },
     {
       "entity": "Windows vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11",
@@ -66,15 +66,15 @@
     },
     {
       "entity": "Windows 10, Windows 11",
-      "count": 112
+      "count": 115
     },
     {
       "entity": "T1218",
-      "count": 91
+      "count": 92
     },
     {
       "entity": "Windows",
-      "count": 76
+      "count": 78
     },
     {
       "entity": "T1105",
@@ -90,25 +90,25 @@
     },
     {
       "entity": "T1127",
-      "count": 52
+      "count": 56
     },
     {
       "entity": "AWL Bypass",
-      "count": 49
+      "count": 50
     },
     {
       "entity": "Administrator",
-      "count": 43
+      "count": 44
+    },
+    {
+      "entity": "T1202",
+      "count": 41
     },
     {
       "entity": "Wmic.exe",
       "count": 41
-    },
-    {
-      "entity": "Certutil.exe",
-      "count": 41
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-08-10T07:29:06Z"
+  "generatedAt": "2026-09-14T11:45:07Z"
 }
