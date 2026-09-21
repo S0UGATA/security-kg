@@ -15,7 +15,7 @@
       "count": 613
     },
     {
-      "predicate": "privileges",
+      "predicate": "category",
       "count": 484
     },
     {
@@ -31,7 +31,7 @@
       "count": 484
     },
     {
-      "predicate": "category",
+      "predicate": "privileges",
       "count": 484
     },
     {
@@ -101,14 +101,14 @@
       "count": 44
     },
     {
-      "entity": "T1202",
+      "entity": "Wmic.exe",
       "count": 41
     },
     {
-      "entity": "Wmic.exe",
+      "entity": "Certutil.exe",
       "count": 41
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-09-21T11:59:44Z"
 }
