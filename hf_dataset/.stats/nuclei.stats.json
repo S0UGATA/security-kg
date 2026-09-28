@@ -1,46 +1,46 @@
 {
-  "totalTriples": 101442,
-  "uniqueSubjects": 13111,
-  "uniqueObjects": 47115,
+  "totalTriples": 103700,
+  "uniqueSubjects": 13418,
+  "uniqueObjects": 48339,
   "uniquePredicates": 9,
   "bySource": [
     {
       "source": "nuclei",
-      "count": 101442
+      "count": 103700
     }
   ],
   "topPredicates": [
     {
       "predicate": "url",
-      "count": 24838
-    },
-    {
-      "predicate": "name",
-      "count": 13111
+      "count": 25458
     },
     {
       "predicate": "author",
-      "count": 13111
+      "count": 13418
     },
     {
-      "predicate": "rdf:type",
-      "count": 13111
+      "predicate": "name",
+      "count": 13418
     },
     {
       "predicate": "severity",
-      "count": 13111
+      "count": 13418
+    },
+    {
+      "predicate": "rdf:type",
+      "count": 13418
     },
     {
       "predicate": "description",
-      "count": 11562
+      "count": 11867
     },
     {
       "predicate": "cvss-vector",
-      "count": 6744
+      "count": 6797
     },
     {
       "predicate": "cvss-base-score",
-      "count": 5853
+      "count": 5905
     },
     {
       "predicate": "related-weakness",
@@ -50,35 +50,39 @@
   "topConnectedEntities": [
     {
       "entity": "NucleiTemplate",
-      "count": 13111
+      "count": 13418
     },
     {
       "entity": "info",
-      "count": 5044
+      "count": 5292
     },
     {
       "entity": "high",
-      "count": 2821
+      "count": 2844
     },
     {
       "entity": "medium",
-      "count": 2770
+      "count": 2779
     },
     {
       "entity": "critical",
-      "count": 1922
+      "count": 1948
     },
     {
       "entity": "9.8",
-      "count": 1202
+      "count": 1219
     },
     {
       "entity": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
-      "count": 1103
+      "count": 1121
     },
     {
       "entity": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N",
       "count": 912
+    },
+    {
+      "entity": "rxerium",
+      "count": 907
     },
     {
       "entity": "6.1",
@@ -86,11 +90,11 @@
     },
     {
       "entity": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N",
-      "count": 846
+      "count": 848
     },
     {
       "entity": "7.5",
-      "count": 806
+      "count": 815
     },
     {
       "entity": "DhiyaneshDK",
@@ -103,12 +107,8 @@
     {
       "entity": "princechaddha",
       "count": 731
-    },
-    {
-      "entity": "pussycat0x",
-      "count": 716
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:08Z"
+  "generatedAt": "2026-09-28T12:53:59Z"
 }
