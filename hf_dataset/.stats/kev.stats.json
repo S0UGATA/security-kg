@@ -1,64 +1,64 @@
 {
-  "totalTriples": 18738,
-  "uniqueSubjects": 1709,
-  "uniqueObjects": 6615,
+  "totalTriples": 19014,
+  "uniqueSubjects": 1734,
+  "uniqueObjects": 6710,
   "uniquePredicates": 11,
   "bySource": [
     {
       "source": "kev",
-      "count": 18738
+      "count": 19014
     }
   ],
   "topPredicates": [
     {
-      "predicate": "kev-name",
-      "count": 1709
-    },
-    {
-      "predicate": "kev-description",
-      "count": 1709
-    },
-    {
-      "predicate": "kev-product",
-      "count": 1709
-    },
-    {
-      "predicate": "rdf:type",
-      "count": 1709
-    },
-    {
-      "predicate": "kev-ransomware-use",
-      "count": 1709
-    },
-    {
-      "predicate": "kev-vendor",
-      "count": 1709
-    },
-    {
       "predicate": "kev-date-added",
-      "count": 1709
-    },
-    {
-      "predicate": "kev-due-date",
-      "count": 1709
+      "count": 1734
     },
     {
       "predicate": "kev-notes",
-      "count": 1709
+      "count": 1734
     },
     {
       "predicate": "kev-required-action",
-      "count": 1709
+      "count": 1734
+    },
+    {
+      "predicate": "kev-due-date",
+      "count": 1734
+    },
+    {
+      "predicate": "kev-name",
+      "count": 1734
+    },
+    {
+      "predicate": "kev-vendor",
+      "count": 1734
+    },
+    {
+      "predicate": "kev-product",
+      "count": 1734
+    },
+    {
+      "predicate": "rdf:type",
+      "count": 1734
+    },
+    {
+      "predicate": "kev-ransomware-use",
+      "count": 1734
+    },
+    {
+      "predicate": "kev-description",
+      "count": 1734
     },
     {
       "predicate": "related-weakness",
-      "count": 1648
+      "count": 1674
     }
   ],
   "topConnectedEntities": [
     {
       "entity": "KnownExploitedVulnerability",
-      "count": 1709
+      "count": 1734
     },
     {
       "entity": "Apply updates per vendor instructions.",
@@ -66,11 +66,11 @@
     },
     {
       "entity": "Microsoft",
-      "count": 389
+      "count": 390
     },
     {
       "entity": "Known",
-      "count": 360
+      "count": 361
     },
     {
       "entity": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.",
@@ -94,7 +94,11 @@
     },
     {
       "entity": "CWE-20",
-      "count": 118
+      "count": 119
+    },
+    {
+      "entity": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA\u2019s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA\u2019s \u201cForensics Triage Requirements\u201d (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "count": 117
     },
     {
       "entity": "CWE-78",
@@ -102,7 +106,7 @@
     },
     {
       "entity": "CWE-787",
-      "count": 103
+      "count": 105
     },
     {
       "entity": "2021-11-17",
@@ -110,13 +114,9 @@
     },
     {
       "entity": "Cisco",
-      "count": 97
-    },
-    {
-      "entity": "2022-03-03",
-      "count": 95
+      "count": 100
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-10-05T13:37:05Z"
 }
