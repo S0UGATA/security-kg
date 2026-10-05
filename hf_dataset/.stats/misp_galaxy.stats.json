@@ -1,42 +1,42 @@
 {
-  "totalTriples": 221047,
-  "uniqueSubjects": 38532,
-  "uniqueObjects": 77293,
+  "totalTriples": 222014,
+  "uniqueSubjects": 38781,
+  "uniqueObjects": 77721,
   "uniquePredicates": 19,
   "bySource": [
     {
       "source": "misp_galaxy",
-      "count": 221047
+      "count": 222014
     }
   ],
   "topPredicates": [
     {
       "predicate": "uses",
-      "count": 35913
+      "count": 35915
     },
     {
       "predicate": "misp-related",
-      "count": 35835
-    },
-    {
-      "predicate": "rdf:type",
-      "count": 34121
+      "count": 35839
     },
     {
       "predicate": "galaxy",
-      "count": 34121
+      "count": 34370
     },
     {
       "predicate": "name",
-      "count": 34121
+      "count": 34370
+    },
+    {
+      "predicate": "rdf:type",
+      "count": 34370
     },
     {
       "predicate": "description",
-      "count": 29712
+      "count": 29917
     },
     {
       "predicate": "synonym",
-      "count": 5291
+      "count": 5295
     },
     {
       "predicate": "related-attack-id",
@@ -44,11 +44,11 @@
     },
     {
       "predicate": "used-by",
-      "count": 2248
+      "count": 2252
     },
     {
       "predicate": "country",
-      "count": 1306
+      "count": 1307
     },
     {
       "predicate": "targets",
@@ -114,11 +114,11 @@
     },
     {
       "entity": "ransomware",
-      "count": 2768
+      "count": 2812
     },
     {
       "entity": "Ransomware",
-      "count": 2583
+      "count": 2627
     },
     {
       "entity": "veris-framework",
@@ -150,5 +150,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-10-05T13:37:05Z"
 }
