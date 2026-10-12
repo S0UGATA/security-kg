@@ -23,15 +23,15 @@
       "count": 1878
     },
     {
-      "predicate": "tests-technique",
-      "count": 1878
-    },
-    {
       "predicate": "name",
       "count": 1878
     },
     {
       "predicate": "rdf:type",
+      "count": 1878
+    },
+    {
+      "predicate": "tests-technique",
       "count": 1878
     }
   ],
@@ -93,10 +93,10 @@
       "count": 28
     },
     {
-      "entity": "T1686",
+      "entity": "iaas:aws",
       "count": 25
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-10-12T14:23:31Z"
 }

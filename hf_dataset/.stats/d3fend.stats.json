@@ -97,14 +97,14 @@
       "count": 22
     },
     {
-      "entity": "T1547",
+      "entity": "LateralMovementTechnique",
       "count": 20
     },
     {
-      "entity": "LateralMovementTechnique",
+      "entity": "ImpactTechnique",
       "count": 20
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:06Z"
+  "generatedAt": "2026-10-12T14:23:30Z"
 }

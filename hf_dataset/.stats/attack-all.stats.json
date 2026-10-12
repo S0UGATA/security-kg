@@ -23,11 +23,11 @@
       "count": 2925
     },
     {
-      "predicate": "rdf:type",
+      "predicate": "modified",
       "count": 2925
     },
     {
-      "predicate": "modified",
+      "predicate": "rdf:type",
       "count": 2925
     },
     {
@@ -162,5 +162,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:01Z"
+  "generatedAt": "2026-10-12T14:23:25Z"
 }
