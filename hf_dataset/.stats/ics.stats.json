@@ -31,15 +31,15 @@
       "count": 290
     },
     {
-      "predicate": "modified",
-      "count": 290
-    },
-    {
       "predicate": "rdf:type",
       "count": 290
     },
     {
       "predicate": "created",
+      "count": 290
+    },
+    {
+      "predicate": "modified",
       "count": 290
     },
     {
@@ -141,11 +141,11 @@
       "count": 51
     },
     {
-      "entity": "A0005",
+      "entity": "A0009",
       "count": 48
     },
     {
-      "entity": "A0009",
+      "entity": "A0005",
       "count": 48
     },
     {
@@ -154,5 +154,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:01Z"
+  "generatedAt": "2026-10-12T14:23:25Z"
 }

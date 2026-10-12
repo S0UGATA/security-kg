@@ -35,11 +35,11 @@
       "count": 1212
     },
     {
-      "predicate": "name",
+      "predicate": "rdf:type",
       "count": 944
     },
     {
-      "predicate": "rdf:type",
+      "predicate": "status",
       "count": 944
     },
     {
@@ -47,11 +47,11 @@
       "count": 944
     },
     {
-      "predicate": "description",
+      "predicate": "name",
       "count": 944
     },
     {
-      "predicate": "status",
+      "predicate": "description",
       "count": 944
     },
     {
@@ -142,5 +142,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:06Z"
+  "generatedAt": "2026-10-12T14:23:30Z"
 }

@@ -15,15 +15,11 @@
       "count": 3948
     },
     {
-      "predicate": "rdf:type",
+      "predicate": "author",
       "count": 3302
     },
     {
-      "predicate": "level",
-      "count": 3302
-    },
-    {
-      "predicate": "status",
+      "predicate": "date",
       "count": 3302
     },
     {
@@ -35,11 +31,15 @@
       "count": 3302
     },
     {
-      "predicate": "date",
+      "predicate": "level",
       "count": 3302
     },
     {
-      "predicate": "author",
+      "predicate": "rdf:type",
+      "count": 3302
+    },
+    {
+      "predicate": "status",
       "count": 3302
     },
     {
@@ -118,5 +118,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-10-12T14:23:31Z"
 }
