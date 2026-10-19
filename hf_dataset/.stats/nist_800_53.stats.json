@@ -15,10 +15,6 @@
       "count": 4378
     },
     {
-      "predicate": "description",
-      "count": 102
-    },
-    {
       "predicate": "name",
       "count": 102
     },
@@ -28,6 +24,10 @@
     },
     {
       "predicate": "control-family",
+      "count": 102
+    },
+    {
+      "predicate": "description",
       "count": 102
     }
   ],
@@ -94,5 +94,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-10-19T12:03:35Z"
 }

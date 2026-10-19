@@ -1,58 +1,58 @@
 {
-  "totalTriples": 221047,
-  "uniqueSubjects": 38532,
-  "uniqueObjects": 77293,
+  "totalTriples": 223203,
+  "uniqueSubjects": 38877,
+  "uniqueObjects": 78094,
   "uniquePredicates": 19,
   "bySource": [
     {
       "source": "misp_galaxy",
-      "count": 221047
+      "count": 223203
     }
   ],
   "topPredicates": [
     {
       "predicate": "uses",
-      "count": 35913
+      "count": 36514
     },
     {
       "predicate": "misp-related",
-      "count": 35835
+      "count": 36118
     },
     {
       "predicate": "rdf:type",
-      "count": 34121
-    },
-    {
-      "predicate": "galaxy",
-      "count": 34121
+      "count": 34410
     },
     {
       "predicate": "name",
-      "count": 34121
+      "count": 34410
+    },
+    {
+      "predicate": "galaxy",
+      "count": 34410
     },
     {
       "predicate": "description",
-      "count": 29712
+      "count": 29956
     },
     {
       "predicate": "synonym",
-      "count": 5291
+      "count": 5304
     },
     {
       "predicate": "related-attack-id",
-      "count": 5123
+      "count": 5163
     },
     {
       "predicate": "used-by",
-      "count": 2248
+      "count": 2252
     },
     {
       "predicate": "country",
-      "count": 1306
+      "count": 1307
     },
     {
       "predicate": "targets",
-      "count": 926
+      "count": 1017
     },
     {
       "predicate": "targets-country",
@@ -60,7 +60,7 @@
     },
     {
       "predicate": "subtechnique-of",
-      "count": 674
+      "count": 686
     },
     {
       "predicate": "targets-sector",
@@ -105,27 +105,27 @@
       "count": 3683
     },
     {
-      "entity": "sigma-rules",
-      "count": 3144
-    },
-    {
       "entity": "SigmaRule",
       "count": 3144
     },
     {
+      "entity": "sigma-rules",
+      "count": 3144
+    },
+    {
       "entity": "ransomware",
-      "count": 2768
+      "count": 2812
     },
     {
       "entity": "Ransomware",
-      "count": 2583
-    },
-    {
-      "entity": "veris-framework",
-      "count": 2207
+      "count": 2627
     },
     {
       "entity": "VerisFramework",
+      "count": 2207
+    },
+    {
+      "entity": "veris-framework",
       "count": 2207
     },
     {
@@ -150,5 +150,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-10-19T12:03:35Z"
 }
