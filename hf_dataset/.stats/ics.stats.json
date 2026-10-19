@@ -1,78 +1,78 @@
 {
-  "totalTriples": 4264,
-  "uniqueSubjects": 387,
-  "uniqueObjects": 1445,
+  "totalTriples": 4753,
+  "uniqueSubjects": 408,
+  "uniqueObjects": 1562,
   "uniquePredicates": 20,
   "bySource": [
     {
       "source": "attack",
-      "count": 4264
+      "count": 4753
     }
   ],
   "topPredicates": [
     {
       "predicate": "targets",
-      "count": 842
-    },
-    {
-      "predicate": "mitigates",
-      "count": 402
-    },
-    {
-      "predicate": "domain",
-      "count": 394
-    },
-    {
-      "predicate": "uses",
-      "count": 292
-    },
-    {
-      "predicate": "name",
-      "count": 290
-    },
-    {
-      "predicate": "modified",
-      "count": 290
-    },
-    {
-      "predicate": "rdf:type",
-      "count": 290
-    },
-    {
-      "predicate": "created",
-      "count": 290
-    },
-    {
-      "predicate": "description",
-      "count": 289
-    },
-    {
-      "predicate": "url",
-      "count": 283
+      "count": 933
     },
     {
       "predicate": "platform",
-      "count": 217
+      "count": 428
+    },
+    {
+      "predicate": "mitigates",
+      "count": 424
+    },
+    {
+      "predicate": "domain",
+      "count": 411
+    },
+    {
+      "predicate": "uses",
+      "count": 329
+    },
+    {
+      "predicate": "created",
+      "count": 304
+    },
+    {
+      "predicate": "rdf:type",
+      "count": 304
+    },
+    {
+      "predicate": "name",
+      "count": 304
+    },
+    {
+      "predicate": "modified",
+      "count": 304
+    },
+    {
+      "predicate": "description",
+      "count": 303
+    },
+    {
+      "predicate": "url",
+      "count": 297
     },
     {
       "predicate": "is-subtechnique",
-      "count": 118
+      "count": 127
     },
     {
       "predicate": "detects",
-      "count": 97
+      "count": 104
     },
     {
       "predicate": "alias",
-      "count": 76
+      "count": 77
     },
     {
       "predicate": "deprecated",
-      "count": 37
+      "count": 39
     },
     {
       "predicate": "subtechnique-of",
-      "count": 18
+      "count": 26
     },
     {
       "predicate": "shortname",
@@ -94,65 +94,65 @@
   "topConnectedEntities": [
     {
       "entity": "ics-attack",
-      "count": 290
+      "count": 304
     },
     {
       "entity": "Technique",
-      "count": 118
+      "count": 127
+    },
+    {
+      "entity": "Windows",
+      "count": 117
     },
     {
       "entity": "enterprise-attack",
-      "count": 83
+      "count": 86
+    },
+    {
+      "entity": "Linux",
+      "count": 85
     },
     {
       "entity": "2020-05-21 17:43:26.506000+00:00",
       "count": 82
     },
     {
+      "entity": "Embedded",
+      "count": 79
+    },
+    {
       "entity": "A0017",
-      "count": 63
-    },
-    {
-      "entity": "A0003",
-      "count": 61
-    },
-    {
-      "entity": "A0010",
-      "count": 60
-    },
-    {
-      "entity": "A0018",
-      "count": 60
+      "count": 65
     },
     {
       "entity": "A0002",
-      "count": 57
+      "count": 64
+    },
+    {
+      "entity": "A0003",
+      "count": 63
+    },
+    {
+      "entity": "A0018",
+      "count": 63
+    },
+    {
+      "entity": "A0010",
+      "count": 62
     },
     {
       "entity": "A0007",
-      "count": 54
-    },
-    {
-      "entity": "Mitigation",
-      "count": 52
+      "count": 61
     },
     {
       "entity": "A0001",
-      "count": 51
-    },
-    {
-      "entity": "A0005",
-      "count": 48
+      "count": 58
     },
     {
       "entity": "A0009",
-      "count": 48
-    },
-    {
-      "entity": "Windows",
-      "count": 47
+      "count": 55
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:01Z"
+  "generatedAt": "2026-10-19T12:03:29Z"
 }
