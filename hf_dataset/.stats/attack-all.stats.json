@@ -1,82 +1,82 @@
 {
-  "totalTriples": 52199,
-  "uniqueSubjects": 3619,
-  "uniqueObjects": 14884,
+  "totalTriples": 53543,
+  "uniqueSubjects": 3673,
+  "uniqueObjects": 15273,
   "uniquePredicates": 22,
   "bySource": [
     {
       "source": "attack",
-      "count": 52199
+      "count": 53543
     }
   ],
   "topPredicates": [
     {
       "predicate": "uses",
-      "count": 20224
+      "count": 20823
     },
     {
       "predicate": "platform",
-      "count": 3745
+      "count": 3996
     },
     {
       "predicate": "name",
-      "count": 2925
+      "count": 2966
     },
     {
       "predicate": "rdf:type",
-      "count": 2925
+      "count": 2966
     },
     {
       "predicate": "modified",
-      "count": 2925
+      "count": 2966
     },
     {
       "predicate": "created",
-      "count": 2922
+      "count": 2963
     },
     {
       "predicate": "url",
-      "count": 2918
+      "count": 2959
     },
     {
       "predicate": "description",
-      "count": 2907
+      "count": 2950
     },
     {
       "predicate": "domain",
-      "count": 2835
+      "count": 2880
     },
     {
       "predicate": "mitigates",
-      "count": 2017
+      "count": 2068
     },
     {
       "predicate": "is-subtechnique",
-      "count": 1166
+      "count": 1184
     },
     {
       "predicate": "belongs-to-tactic",
-      "count": 1090
-    },
-    {
-      "predicate": "detects",
-      "count": 918
+      "count": 1099
     },
     {
       "predicate": "targets",
-      "count": 842
+      "count": 933
+    },
+    {
+      "predicate": "detects",
+      "count": 931
     },
     {
       "predicate": "subtechnique-of",
-      "count": 542
+      "count": 554
     },
     {
       "predicate": "alias",
-      "count": 437
+      "count": 443
     },
     {
       "predicate": "deprecated",
-      "count": 318
+      "count": 319
     },
     {
       "predicate": "revoked",
@@ -102,65 +102,65 @@
   "topConnectedEntities": [
     {
       "entity": "enterprise-attack",
-      "count": 2139
+      "count": 2168
     },
     {
       "entity": "Windows",
-      "count": 1324
+      "count": 1413
     },
     {
       "entity": "Technique",
-      "count": 1166
+      "count": 1184
     },
     {
       "entity": "Malware",
-      "count": 869
-    },
-    {
-      "entity": "T1105",
-      "count": 544
+      "count": 887
     },
     {
       "entity": "Linux",
-      "count": 541
+      "count": 614
+    },
+    {
+      "entity": "T1105",
+      "count": 555
     },
     {
       "entity": "macOS",
-      "count": 526
+      "count": 528
     },
     {
       "entity": "T1082",
-      "count": 450
+      "count": 460
     },
     {
       "entity": "T1071.001",
-      "count": 440
+      "count": 449
     },
     {
       "entity": "mobile-attack",
-      "count": 406
-    },
-    {
-      "entity": "T1059.003",
-      "count": 399
+      "count": 408
     },
     {
       "entity": "T1083",
-      "count": 395
+      "count": 403
+    },
+    {
+      "entity": "T1059.003",
+      "count": 402
     },
     {
       "entity": "T1140",
-      "count": 374
+      "count": 379
     },
     {
       "entity": "T1057",
-      "count": 341
+      "count": 348
     },
     {
       "entity": "Mitigation",
-      "count": 334
+      "count": 335
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:01Z"
+  "generatedAt": "2026-10-26T12:16:38Z"
 }

@@ -1,85 +1,85 @@
 {
-  "totalTriples": 44035,
-  "uniqueSubjects": 2836,
-  "uniqueObjects": 12334,
+  "totalTriples": 44867,
+  "uniqueSubjects": 2871,
+  "uniqueObjects": 12607,
   "uniquePredicates": 21,
   "bySource": [
     {
       "source": "attack",
-      "count": 44035
+      "count": 44867
     }
   ],
   "topPredicates": [
     {
       "predicate": "uses",
-      "count": 18457
+      "count": 18975
     },
     {
       "predicate": "platform",
-      "count": 3222
+      "count": 3265
     },
     {
       "predicate": "domain",
-      "count": 2497
-    },
-    {
-      "predicate": "rdf:type",
-      "count": 2363
-    },
-    {
-      "predicate": "modified",
-      "count": 2363
+      "count": 2530
     },
     {
       "predicate": "url",
-      "count": 2363
+      "count": 2392
+    },
+    {
+      "predicate": "rdf:type",
+      "count": 2392
     },
     {
       "predicate": "created",
-      "count": 2363
+      "count": 2392
     },
     {
       "predicate": "name",
-      "count": 2363
+      "count": 2392
+    },
+    {
+      "predicate": "modified",
+      "count": 2392
     },
     {
       "predicate": "description",
-      "count": 2359
+      "count": 2390
     },
     {
       "predicate": "mitigates",
-      "count": 1448
+      "count": 1477
     },
     {
       "predicate": "belongs-to-tactic",
-      "count": 1090
+      "count": 1099
     },
     {
       "predicate": "is-subtechnique",
-      "count": 858
+      "count": 867
     },
     {
       "predicate": "detects",
-      "count": 697
+      "count": 703
     },
     {
       "predicate": "subtechnique-of",
-      "count": 477
+      "count": 481
     },
     {
       "predicate": "alias",
-      "count": 435
+      "count": 440
     },
     {
       "predicate": "deprecated",
       "count": 287
     },
     {
-      "predicate": "revoked",
+      "predicate": "revoked-by",
       "count": 157
     },
     {
-      "predicate": "revoked-by",
+      "predicate": "revoked",
       "count": 157
     },
     {
@@ -98,65 +98,65 @@
   "topConnectedEntities": [
     {
       "entity": "enterprise-attack",
-      "count": 2363
+      "count": 2392
     },
     {
       "entity": "Windows",
-      "count": 1307
+      "count": 1327
     },
     {
       "entity": "Technique",
-      "count": 858
+      "count": 867
     },
     {
       "entity": "Malware",
-      "count": 735
+      "count": 752
     },
     {
       "entity": "T1105",
-      "count": 545
+      "count": 556
     },
     {
       "entity": "Linux",
-      "count": 541
+      "count": 545
     },
     {
       "entity": "macOS",
-      "count": 526
+      "count": 528
     },
     {
       "entity": "T1082",
-      "count": 451
+      "count": 461
     },
     {
       "entity": "T1071.001",
-      "count": 440
-    },
-    {
-      "entity": "T1059.003",
-      "count": 399
+      "count": 449
     },
     {
       "entity": "T1083",
-      "count": 396
+      "count": 404
+    },
+    {
+      "entity": "T1059.003",
+      "count": 402
     },
     {
       "entity": "T1140",
-      "count": 375
+      "count": 380
     },
     {
       "entity": "T1057",
-      "count": 342
+      "count": 349
     },
     {
       "entity": "T1070.004",
-      "count": 327
+      "count": 335
     },
     {
       "entity": "T1016",
-      "count": 314
+      "count": 317
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:01Z"
+  "generatedAt": "2026-10-26T12:16:38Z"
 }

@@ -1,12 +1,12 @@
 {
-  "totalTriples": 3768,
+  "totalTriples": 3773,
   "uniqueSubjects": 245,
-  "uniqueObjects": 1506,
+  "uniqueObjects": 1507,
   "uniquePredicates": 9,
   "bySource": [
     {
       "source": "lolbas",
-      "count": 3768
+      "count": 3773
     }
   ],
   "topPredicates": [
@@ -15,24 +15,28 @@
       "count": 613
     },
     {
-      "predicate": "privileges",
-      "count": 484
-    },
-    {
-      "predicate": "platform",
-      "count": 484
-    },
-    {
       "predicate": "usecase",
-      "count": 484
+      "count": 485
     },
     {
       "predicate": "maps-to-technique",
-      "count": 484
+      "count": 485
+    },
+    {
+      "predicate": "privileges",
+      "count": 485
     },
     {
       "predicate": "category",
-      "count": 484
+      "count": 485
+    },
+    {
+      "predicate": "platform",
+      "count": 485
+    },
+    {
+      "predicate": "description",
+      "count": 245
     },
     {
       "predicate": "name",
@@ -41,16 +45,12 @@
     {
       "predicate": "rdf:type",
       "count": 245
-    },
-    {
-      "predicate": "description",
-      "count": 245
     }
   ],
   "topConnectedEntities": [
     {
       "entity": "User",
-      "count": 420
+      "count": 421
     },
     {
       "entity": "Execute",
@@ -101,14 +101,14 @@
       "count": 44
     },
     {
-      "entity": "T1202",
+      "entity": "Certutil.exe",
       "count": 41
     },
     {
-      "entity": "Wmic.exe",
+      "entity": "T1202",
       "count": 41
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-10-26T12:16:43Z"
 }

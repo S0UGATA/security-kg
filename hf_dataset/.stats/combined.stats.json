@@ -1,48 +1,48 @@
 {
-  "totalTriples": 30305065,
-  "uniqueSubjects": 2781325,
-  "uniqueObjects": 5142253,
+  "totalTriples": 31945957,
+  "uniqueSubjects": 2848080,
+  "uniqueObjects": 5274593,
   "uniquePredicates": 128,
   "bySource": [
     {
       "source": "cpe",
-      "count": 14088016
+      "count": 14292498
     },
     {
       "source": "osv",
-      "count": 8174449
+      "count": 8991477
     },
     {
       "source": "cve",
-      "count": 4278246
+      "count": 4645259
     },
     {
       "source": "vulnrichment",
-      "count": 1758866
+      "count": 1937046
     },
     {
       "source": "epss",
-      "count": 744648
+      "count": 790616
     },
     {
       "source": "ghsa",
-      "count": 411723
+      "count": 431874
     },
     {
       "source": "exploitdb",
-      "count": 347621
+      "count": 347756
     },
     {
       "source": "misp_galaxy",
-      "count": 221047
+      "count": 223305
     },
     {
       "source": "nuclei",
-      "count": 101442
+      "count": 104668
     },
     {
       "source": "attack",
-      "count": 52199
+      "count": 53543
     },
     {
       "source": "sigma",
@@ -50,7 +50,7 @@
     },
     {
       "source": "kev",
-      "count": 18738
+      "count": 19257
     },
     {
       "source": "cwe",
@@ -58,11 +58,11 @@
     },
     {
       "source": "loldrivers",
-      "count": 12696
+      "count": 12894
     },
     {
       "source": "atomic",
-      "count": 11442
+      "count": 11550
     },
     {
       "source": "d3fend",
@@ -74,7 +74,7 @@
     },
     {
       "source": "euvd",
-      "count": 5163
+      "count": 5316
     },
     {
       "source": "nist_800_53",
@@ -82,7 +82,7 @@
     },
     {
       "source": "lolbas",
-      "count": 3768
+      "count": 3773
     },
     {
       "source": "car",
@@ -98,274 +98,274 @@
     },
     {
       "source": "f3",
-      "count": 1053
+      "count": 1177
     }
   ],
   "topPredicates": [
     {
       "predicate": "affects-package",
-      "count": 3577321
+      "count": 4016820
     },
     {
       "predicate": "rdf:type",
-      "count": 3123309
-    },
-    {
-      "predicate": "product",
-      "count": 2337709
+      "count": 3226409
     },
     {
       "predicate": "vendor",
-      "count": 2337691
+      "count": 2420725
+    },
+    {
+      "predicate": "product",
+      "count": 2420724
     },
     {
       "predicate": "title",
-      "count": 1738908
+      "count": 1764414
     },
     {
       "predicate": "modified",
-      "count": 1738746
+      "count": 1764308
     },
     {
       "predicate": "created",
-      "count": 1738743
+      "count": 1764305
     },
     {
       "predicate": "part",
-      "count": 1735504
+      "count": 1761010
     },
     {
       "predicate": "version",
-      "count": 1735502
+      "count": 1761008
     },
     {
       "predicate": "date-published",
-      "count": 1223542
+      "count": 1300060
     },
     {
       "predicate": "fixed-in",
-      "count": 1120482
+      "count": 1267130
     },
     {
       "predicate": "ecosystem",
-      "count": 973959
+      "count": 1053440
     },
     {
       "predicate": "date-modified",
-      "count": 620122
+      "count": 652962
     },
     {
       "predicate": "state",
-      "count": 554645
-    },
-    {
-      "predicate": "assigner",
-      "count": 554645
+      "count": 598251
     },
     {
       "predicate": "date-updated",
-      "count": 554645
+      "count": 598251
+    },
+    {
+      "predicate": "assigner",
+      "count": 598251
     },
     {
       "predicate": "description",
-      "count": 459009
+      "count": 479525
     },
     {
       "predicate": "summary",
-      "count": 451995
-    },
-    {
-      "predicate": "epss-percentile",
-      "count": 372324
+      "count": 472776
     },
     {
       "predicate": "epss-score",
-      "count": 372324
+      "count": 395308
+    },
+    {
+      "predicate": "epss-percentile",
+      "count": 395308
     },
     {
       "predicate": "cvss-vector",
-      "count": 354365
+      "count": 385042
     },
     {
       "predicate": "related-weakness",
-      "count": 303740
+      "count": 339160
     },
     {
       "predicate": "platform",
-      "count": 231572
+      "count": 265058
     },
     {
       "predicate": "cvss-base-score",
-      "count": 205151
+      "count": 229310
     },
     {
       "predicate": "cvss-severity",
-      "count": 199298
+      "count": 223320
     }
   ],
   "topConnectedEntities": [
     {
       "entity": "Platform",
-      "count": 1837515
+      "count": 1863239
     },
     {
       "entity": "application",
-      "count": 1531031
+      "count": 1555693
     },
     {
       "entity": "OSVulnerability",
-      "count": 584608
+      "count": 615770
     },
     {
       "entity": "PUBLISHED",
-      "count": 554645
+      "count": 598251
     },
     {
       "entity": "Vulnerability",
-      "count": 554645
+      "count": 598251
     },
     {
       "entity": "npm",
-      "count": 230068
-    },
-    {
-      "entity": "2025-11-11",
-      "count": 155010
+      "count": 231933
     },
     {
       "entity": "Linux",
-      "count": 149033
+      "count": 167661
+    },
+    {
+      "entity": "2025-11-11",
+      "count": 155009
     },
     {
       "entity": "operating_system",
-      "count": 142006
-    },
-    {
-      "entity": "mitre",
-      "count": 137159
+      "count": 142737
     },
     {
       "entity": "Microsoft",
-      "count": 120149
+      "count": 140179
+    },
+    {
+      "entity": "mitre",
+      "count": 138512
     },
     {
       "entity": "partial",
-      "count": 119520
+      "count": 131915
     },
     {
       "entity": "MEDIUM",
-      "count": 111975
+      "count": 123832
     },
     {
       "entity": "HIGH",
-      "count": 105344
+      "count": 117350
     },
     {
-      "entity": "2025-11-12",
-      "count": 94327
+      "entity": "x64-based Systems",
+      "count": 110569
     }
   ],
   "crossSourceLinks": [
     {
       "from": "cve",
       "to": "cwe",
-      "count": 173587,
+      "count": 193742,
       "predicate": "related-weakness"
     },
     {
       "from": "osv",
       "to": "cwe",
-      "count": 84566,
+      "count": 97362,
       "predicate": "related-weakness"
     },
     {
       "from": "vulnrichment",
       "to": "cpe",
-      "count": 82111,
+      "count": 82151,
       "predicate": "adp-affects-cpe"
     },
     {
       "from": "osv",
       "to": "cve",
-      "count": 60583,
+      "count": 64505,
       "predicate": "related-cve"
     },
     {
       "from": "osv",
       "to": "epss",
-      "count": 60583,
+      "count": 64499,
       "predicate": "related-cve"
     },
     {
       "from": "ghsa",
       "to": "cwe",
-      "count": 41520,
+      "count": 43844,
       "predicate": "related-weakness"
     },
     {
       "from": "vulnrichment",
       "to": "cwe",
-      "count": 39096,
+      "count": 43475,
       "predicate": "adp-related-weakness"
     },
     {
       "from": "osv",
       "to": "vulnrichment",
-      "count": 38131,
+      "count": 42042,
       "predicate": "related-cve"
-    },
-    {
-      "from": "ghsa",
-      "to": "cve",
-      "count": 30583,
-      "predicate": "related-cve"
-    },
-    {
-      "from": "ghsa",
-      "to": "epss",
-      "count": 30583,
-      "predicate": "related-cve"
-    },
-    {
-      "from": "exploitdb",
-      "to": "epss",
-      "count": 30415,
-      "predicate": "exploits-cve"
-    },
-    {
-      "from": "exploitdb",
-      "to": "cve",
-      "count": 30415,
-      "predicate": "exploits-cve"
     },
     {
       "from": "cve",
       "to": "cpe",
-      "count": 29861,
+      "count": 33017,
       "predicate": "affects-cpe"
     },
     {
       "from": "ghsa",
+      "to": "cve",
+      "count": 32234,
+      "predicate": "related-cve"
+    },
+    {
+      "from": "ghsa",
+      "to": "epss",
+      "count": 32234,
+      "predicate": "related-cve"
+    },
+    {
+      "from": "exploitdb",
+      "to": "cve",
+      "count": 30427,
+      "predicate": "exploits-cve"
+    },
+    {
+      "from": "exploitdb",
+      "to": "epss",
+      "count": 30427,
+      "predicate": "exploits-cve"
+    },
+    {
+      "from": "ghsa",
       "to": "osv",
-      "count": 24924,
+      "count": 26577,
+      "predicate": "related-cve"
+    },
+    {
+      "from": "ghsa",
+      "to": "vulnrichment",
+      "count": 19965,
       "predicate": "related-cve"
     },
     {
       "from": "attack",
       "to": "d3fend",
-      "count": 18885,
+      "count": 19440,
       "predicate": "uses"
-    },
-    {
-      "from": "ghsa",
-      "to": "vulnrichment",
-      "count": 18280,
-      "predicate": "related-cve"
     },
     {
       "from": "misp_galaxy",
       "to": "attack",
-      "count": 4404,
+      "count": 4444,
       "predicate": "related-attack-id"
     },
     {
@@ -394,14 +394,14 @@
     },
     {
       "from": "atomic",
-      "to": "attack",
-      "count": 1878,
+      "to": "d3fend",
+      "count": 1896,
       "predicate": "tests-technique"
     },
     {
       "from": "atomic",
-      "to": "d3fend",
-      "count": 1878,
+      "to": "attack",
+      "count": 1896,
       "predicate": "tests-technique"
     },
     {
@@ -411,51 +411,51 @@
       "predicate": "related-attack-id"
     },
     {
-      "from": "exploitdb",
-      "to": "vulnrichment",
-      "count": 1724,
-      "predicate": "exploits-cve"
+      "from": "euvd",
+      "to": "epss",
+      "count": 1772,
+      "predicate": "related-cve"
     },
     {
       "from": "euvd",
       "to": "cve",
-      "count": 1721,
-      "predicate": "related-cve"
-    },
-    {
-      "from": "euvd",
-      "to": "epss",
-      "count": 1721,
+      "count": 1772,
       "predicate": "related-cve"
     },
     {
       "from": "euvd",
       "to": "vulnrichment",
-      "count": 1719,
+      "count": 1770,
       "predicate": "related-cve"
+    },
+    {
+      "from": "exploitdb",
+      "to": "vulnrichment",
+      "count": 1766,
+      "predicate": "exploits-cve"
     },
     {
       "from": "euvd",
       "to": "kev",
-      "count": 1709,
+      "count": 1756,
       "predicate": "related-cve"
     },
     {
       "from": "kev",
       "to": "cwe",
-      "count": 1586,
+      "count": 1634,
       "predicate": "related-weakness"
     },
     {
       "from": "exploitdb",
       "to": "osv",
-      "count": 1345,
+      "count": 1357,
       "predicate": "exploits-cve"
     },
     {
       "from": "osv",
       "to": "nuclei",
-      "count": 1282,
+      "count": 1329,
       "predicate": "related-cve"
     },
     {
@@ -473,37 +473,37 @@
     {
       "from": "exploitdb",
       "to": "nuclei",
-      "count": 1117,
+      "count": 1125,
       "predicate": "exploits-cve"
-    },
-    {
-      "from": "exploitdb",
-      "to": "kev",
-      "count": 793,
-      "predicate": "exploits-cve"
-    },
-    {
-      "from": "ghsa",
-      "to": "nuclei",
-      "count": 784,
-      "predicate": "related-cve"
     },
     {
       "from": "attack",
       "to": "f3",
-      "count": 740,
+      "count": 932,
       "predicate": "uses"
     },
     {
-      "from": "loldrivers",
-      "to": "attack",
-      "count": 686,
-      "predicate": "maps-to-technique"
+      "from": "ghsa",
+      "to": "nuclei",
+      "count": 805,
+      "predicate": "related-cve"
+    },
+    {
+      "from": "exploitdb",
+      "to": "kev",
+      "count": 802,
+      "predicate": "exploits-cve"
     },
     {
       "from": "loldrivers",
       "to": "d3fend",
-      "count": 686,
+      "count": 705,
+      "predicate": "maps-to-technique"
+    },
+    {
+      "from": "loldrivers",
+      "to": "attack",
+      "count": 705,
       "predicate": "maps-to-technique"
     },
     {
@@ -527,25 +527,25 @@
     {
       "from": "euvd",
       "to": "nuclei",
-      "count": 493,
+      "count": 512,
       "predicate": "related-cve"
     },
     {
       "from": "lolbas",
-      "to": "attack",
-      "count": 484,
+      "to": "d3fend",
+      "count": 485,
       "predicate": "maps-to-technique"
     },
     {
       "from": "lolbas",
-      "to": "d3fend",
-      "count": 484,
+      "to": "attack",
+      "count": 485,
       "predicate": "maps-to-technique"
     },
     {
       "from": "osv",
       "to": "kev",
-      "count": 312,
+      "count": 317,
       "predicate": "related-cve"
     },
     {
@@ -563,7 +563,7 @@
     {
       "from": "euvd",
       "to": "osv",
-      "count": 242,
+      "count": 257,
       "predicate": "related-cve"
     },
     {
@@ -585,16 +585,22 @@
       "predicate": "detects-technique"
     },
     {
+      "from": "f3",
+      "to": "attack",
+      "count": 139,
+      "predicate": "belongs-to-tactic"
+    },
+    {
       "from": "ghsa",
       "to": "kev",
-      "count": 133,
+      "count": 135,
       "predicate": "related-cve"
     },
     {
-      "from": "f3",
-      "to": "attack",
-      "count": 121,
-      "predicate": "belongs-to-tactic"
+      "from": "misp_galaxy",
+      "to": "f3",
+      "count": 113,
+      "predicate": "related-attack-id"
     },
     {
       "from": "atlas",
@@ -603,21 +609,15 @@
       "predicate": "belongs-to-tactic"
     },
     {
-      "from": "misp_galaxy",
-      "to": "f3",
-      "count": 109,
-      "predicate": "related-attack-id"
-    },
-    {
       "from": "sigma",
       "to": "f3",
-      "count": 98,
+      "count": 101,
       "predicate": "detects-technique"
     },
     {
       "from": "atomic",
       "to": "f3",
-      "count": 90,
+      "count": 98,
       "predicate": "tests-technique"
     },
     {
@@ -627,21 +627,21 @@
       "predicate": "child-of"
     },
     {
+      "from": "d3fend",
+      "to": "f3",
+      "count": 65,
+      "predicate": "child-of"
+    },
+    {
       "from": "car",
       "to": "f3",
       "count": 65,
       "predicate": "covers-tactic"
     },
     {
-      "from": "d3fend",
-      "to": "f3",
-      "count": 61,
-      "predicate": "child-of"
-    },
-    {
       "from": "engage",
       "to": "f3",
-      "count": 54,
+      "count": 58,
       "predicate": "vulnerability-of"
     },
     {
@@ -653,13 +653,13 @@
     {
       "from": "capec",
       "to": "f3",
-      "count": 22,
+      "count": 25,
       "predicate": "maps-to-technique"
     },
     {
       "from": "f3",
       "to": "d3fend",
-      "count": 17,
+      "count": 19,
       "predicate": "subtechnique-of"
     },
     {
@@ -679,28 +679,34 @@
       "to": "cwe",
       "count": 1,
       "predicate": "related-weakness"
+    },
+    {
+      "from": "loldrivers",
+      "to": "f3",
+      "count": 1,
+      "predicate": "maps-to-technique"
     }
   ],
-  "generatedAt": "2026-09-14T11:45:01Z",
+  "generatedAt": "2026-10-26T12:16:37Z",
   "sourceDetails": {
     "attack": {
-      "triples": 52199,
-      "entities": 3619,
+      "triples": 53543,
+      "entities": 3673,
       "predicates": 22
     },
     "attack/enterprise": {
-      "triples": 44035,
-      "entities": 2836,
+      "triples": 44867,
+      "entities": 2871,
       "predicates": 21
     },
     "attack/mobile": {
-      "triples": 5582,
-      "entities": 530,
+      "triples": 5646,
+      "entities": 532,
       "predicates": 19
     },
     "attack/ics": {
-      "triples": 4264,
-      "entities": 387,
+      "triples": 4753,
+      "entities": 408,
       "predicates": 20
     },
     "atlas": {
@@ -719,13 +725,13 @@
       "predicates": 13
     },
     "cpe": {
-      "triples": 14088016,
-      "entities": 1837497,
+      "triples": 14292498,
+      "entities": 1863220,
       "predicates": 9
     },
     "cve": {
-      "triples": 4278246,
-      "entities": 372478,
+      "triples": 4645259,
+      "entities": 395417,
       "predicates": 13
     },
     "cwe": {
@@ -744,23 +750,23 @@
       "predicates": 6
     },
     "epss": {
-      "triples": 744648,
-      "entities": 372324,
+      "triples": 790616,
+      "entities": 395308,
       "predicates": 2
     },
     "exploitdb": {
-      "triples": 347621,
-      "entities": 46688,
+      "triples": 347756,
+      "entities": 46709,
       "predicates": 8
     },
     "ghsa": {
-      "triples": 411723,
-      "entities": 35514,
+      "triples": 431874,
+      "entities": 37192,
       "predicates": 10
     },
     "kev": {
-      "triples": 18738,
-      "entities": 1709,
+      "triples": 19257,
+      "entities": 1756,
       "predicates": 11
     },
     "sigma": {
@@ -769,28 +775,28 @@
       "predicates": 11
     },
     "misp_galaxy": {
-      "triples": 221047,
-      "entities": 38532,
+      "triples": 223305,
+      "entities": 38898,
       "predicates": 19
     },
     "vulnrichment": {
-      "triples": 1758866,
-      "entities": 182167,
+      "triples": 1937046,
+      "entities": 202834,
       "predicates": 12
     },
     "lolbas": {
-      "triples": 3768,
+      "triples": 3773,
       "entities": 245,
       "predicates": 9
     },
     "loldrivers": {
-      "triples": 12696,
-      "entities": 687,
+      "triples": 12894,
+      "entities": 706,
       "predicates": 9
     },
     "atomic": {
-      "triples": 11442,
-      "entities": 1878,
+      "triples": 11550,
+      "entities": 1896,
       "predicates": 6
     },
     "nist_800_53": {
@@ -799,18 +805,18 @@
       "predicates": 5
     },
     "nuclei": {
-      "triples": 101442,
-      "entities": 13111,
+      "triples": 104668,
+      "entities": 13520,
       "predicates": 9
     },
     "euvd": {
-      "triples": 5163,
-      "entities": 1721,
+      "triples": 5316,
+      "entities": 1772,
       "predicates": 3
     },
     "osv": {
-      "triples": 8174449,
-      "entities": 547423,
+      "triples": 8991477,
+      "entities": 576058,
       "predicates": 10
     }
   }
