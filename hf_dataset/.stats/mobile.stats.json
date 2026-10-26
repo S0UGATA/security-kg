@@ -1,50 +1,50 @@
 {
-  "totalTriples": 5582,
-  "uniqueSubjects": 530,
-  "uniqueObjects": 2166,
+  "totalTriples": 5646,
+  "uniqueSubjects": 532,
+  "uniqueObjects": 2196,
   "uniquePredicates": 19,
   "bySource": [
     {
       "source": "attack",
-      "count": 5582
+      "count": 5646
     }
   ],
   "topPredicates": [
     {
       "predicate": "uses",
-      "count": 1496
+      "count": 1543
     },
     {
       "predicate": "domain",
-      "count": 478
+      "count": 481
     },
     {
       "predicate": "platform",
-      "count": 435
-    },
-    {
-      "predicate": "url",
-      "count": 406
-    },
-    {
-      "predicate": "created",
-      "count": 406
+      "count": 438
     },
     {
       "predicate": "modified",
-      "count": 406
-    },
-    {
-      "predicate": "rdf:type",
-      "count": 406
+      "count": 408
     },
     {
       "predicate": "name",
-      "count": 406
+      "count": 408
+    },
+    {
+      "predicate": "rdf:type",
+      "count": 408
+    },
+    {
+      "predicate": "created",
+      "count": 408
+    },
+    {
+      "predicate": "url",
+      "count": 408
     },
     {
       "predicate": "description",
-      "count": 391
+      "count": 393
     },
     {
       "predicate": "is-subtechnique",
@@ -76,7 +76,7 @@
     },
     {
       "predicate": "deprecated",
-      "count": 24
+      "count": 23
     },
     {
       "predicate": "shortname",
@@ -90,11 +90,11 @@
   "topConnectedEntities": [
     {
       "entity": "mobile-attack",
-      "count": 406
+      "count": 408
     },
     {
       "entity": "Android",
-      "count": 270
+      "count": 272
     },
     {
       "entity": "Technique",
@@ -106,7 +106,7 @@
     },
     {
       "entity": "Malware",
-      "count": 125
+      "count": 127
     },
     {
       "entity": "T1636.004",
@@ -138,17 +138,17 @@
     },
     {
       "entity": "T1437.001",
+      "count": 63
+    },
+    {
+      "entity": "T1406",
       "count": 62
     },
     {
       "entity": "T1422",
       "count": 62
-    },
-    {
-      "entity": "T1406",
-      "count": 61
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:01Z"
+  "generatedAt": "2026-10-26T12:16:38Z"
 }
