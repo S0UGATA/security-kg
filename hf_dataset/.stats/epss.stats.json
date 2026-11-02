@@ -1,86 +1,86 @@
 {
-  "totalTriples": 744648,
-  "uniqueSubjects": 372324,
+  "totalTriples": 797630,
+  "uniqueSubjects": 398815,
   "uniqueObjects": 100001,
   "uniquePredicates": 2,
   "bySource": [
     {
       "source": "epss",
-      "count": 744648
+      "count": 797630
     }
   ],
   "topPredicates": [
     {
       "predicate": "epss-percentile",
-      "count": 372324
+      "count": 398815
     },
     {
       "predicate": "epss-score",
-      "count": 372324
+      "count": 398815
     }
   ],
   "topConnectedEntities": [
     {
       "entity": "0.00266",
-      "count": 1134
+      "count": 1205
     },
     {
       "entity": "0.00271",
-      "count": 909
+      "count": 929
     },
     {
-      "entity": "0.00168",
-      "count": 596
+      "entity": "0.00333",
+      "count": 877
     },
     {
-      "entity": "0.00256",
-      "count": 578
-    },
-    {
-      "entity": "0.00254",
-      "count": 576
-    },
-    {
-      "entity": "0.00255",
-      "count": 575
-    },
-    {
-      "entity": "0.00205",
-      "count": 573
-    },
-    {
-      "entity": "0.00263",
-      "count": 572
-    },
-    {
-      "entity": "0.00214",
-      "count": 570
-    },
-    {
-      "entity": "0.00222",
-      "count": 563
-    },
-    {
-      "entity": "0.0018",
-      "count": 555
+      "entity": "0.00251",
+      "count": 777
     },
     {
       "entity": "0.00206",
-      "count": 553
+      "count": 748
     },
     {
-      "entity": "0.00235",
-      "count": 549
+      "entity": "0.00168",
+      "count": 748
+    },
+    {
+      "entity": "0.00264",
+      "count": 690
+    },
+    {
+      "entity": "0.00173",
+      "count": 686
+    },
+    {
+      "entity": "0.0022",
+      "count": 672
+    },
+    {
+      "entity": "0.00254",
+      "count": 664
+    },
+    {
+      "entity": "0.00215",
+      "count": 651
+    },
+    {
+      "entity": "0.0034",
+      "count": 650
+    },
+    {
+      "entity": "0.00216",
+      "count": 646
     },
     {
       "entity": "0.00211",
-      "count": 547
+      "count": 640
     },
     {
-      "entity": "0.00202",
-      "count": 547
+      "entity": "0.00198",
+      "count": 628
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-11-02T14:42:22Z"
 }

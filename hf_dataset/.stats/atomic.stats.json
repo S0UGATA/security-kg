@@ -1,56 +1,56 @@
 {
-  "totalTriples": 11442,
-  "uniqueSubjects": 1878,
-  "uniqueObjects": 4004,
+  "totalTriples": 11610,
+  "uniqueSubjects": 1906,
+  "uniqueObjects": 4063,
   "uniquePredicates": 6,
   "bySource": [
     {
       "source": "atomic",
-      "count": 11442
+      "count": 11610
     }
   ],
   "topPredicates": [
     {
       "predicate": "platform",
-      "count": 2052
-    },
-    {
-      "predicate": "executor",
-      "count": 1878
-    },
-    {
-      "predicate": "description",
-      "count": 1878
+      "count": 2080
     },
     {
       "predicate": "tests-technique",
-      "count": 1878
+      "count": 1906
     },
     {
       "predicate": "name",
-      "count": 1878
+      "count": 1906
+    },
+    {
+      "predicate": "executor",
+      "count": 1906
     },
     {
       "predicate": "rdf:type",
-      "count": 1878
+      "count": 1906
+    },
+    {
+      "predicate": "description",
+      "count": 1906
     }
   ],
   "topConnectedEntities": [
     {
       "entity": "AtomicTest",
-      "count": 1878
+      "count": 1906
     },
     {
       "entity": "windows",
-      "count": 1260
+      "count": 1288
     },
     {
       "entity": "powershell",
-      "count": 734
+      "count": 761
     },
     {
       "entity": "command_prompt",
-      "count": 563
+      "count": 564
     },
     {
       "entity": "sh",
@@ -98,5 +98,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-11-02T14:42:23Z"
 }
