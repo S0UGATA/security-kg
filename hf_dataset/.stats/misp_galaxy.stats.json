@@ -1,58 +1,58 @@
 {
-  "totalTriples": 221047,
-  "uniqueSubjects": 38532,
-  "uniqueObjects": 77293,
+  "totalTriples": 223505,
+  "uniqueSubjects": 38940,
+  "uniqueObjects": 78240,
   "uniquePredicates": 19,
   "bySource": [
     {
       "source": "misp_galaxy",
-      "count": 221047
+      "count": 223505
     }
   ],
   "topPredicates": [
     {
       "predicate": "uses",
-      "count": 35913
+      "count": 36514
     },
     {
       "predicate": "misp-related",
-      "count": 35835
-    },
-    {
-      "predicate": "rdf:type",
-      "count": 34121
+      "count": 36123
     },
     {
       "predicate": "galaxy",
-      "count": 34121
+      "count": 34473
+    },
+    {
+      "predicate": "rdf:type",
+      "count": 34473
     },
     {
       "predicate": "name",
-      "count": 34121
+      "count": 34473
     },
     {
       "predicate": "description",
-      "count": 29712
+      "count": 30019
     },
     {
       "predicate": "synonym",
-      "count": 5291
+      "count": 5320
     },
     {
       "predicate": "related-attack-id",
-      "count": 5123
+      "count": 5163
     },
     {
       "predicate": "used-by",
-      "count": 2248
+      "count": 2277
     },
     {
       "predicate": "country",
-      "count": 1306
+      "count": 1311
     },
     {
       "predicate": "targets",
-      "count": 926
+      "count": 1017
     },
     {
       "predicate": "targets-country",
@@ -60,7 +60,7 @@
     },
     {
       "predicate": "subtechnique-of",
-      "count": 674
+      "count": 686
     },
     {
       "predicate": "targets-sector",
@@ -89,11 +89,11 @@
   ],
   "topConnectedEntities": [
     {
-      "entity": "references",
+      "entity": "References",
       "count": 5219
     },
     {
-      "entity": "References",
+      "entity": "references",
       "count": 5219
     },
     {
@@ -114,11 +114,11 @@
     },
     {
       "entity": "ransomware",
-      "count": 2768
+      "count": 2813
     },
     {
       "entity": "Ransomware",
-      "count": 2583
+      "count": 2628
     },
     {
       "entity": "veris-framework",
@@ -129,11 +129,11 @@
       "count": 2207
     },
     {
-      "entity": "naics",
+      "entity": "Naics",
       "count": 2125
     },
     {
-      "entity": "Naics",
+      "entity": "naics",
       "count": 2125
     },
     {
@@ -150,5 +150,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-11-02T14:42:23Z"
 }
