@@ -1,58 +1,58 @@
 {
-  "totalTriples": 221047,
-  "uniqueSubjects": 38532,
-  "uniqueObjects": 77293,
+  "totalTriples": 224521,
+  "uniqueSubjects": 39088,
+  "uniqueObjects": 78538,
   "uniquePredicates": 19,
   "bySource": [
     {
       "source": "misp_galaxy",
-      "count": 221047
+      "count": 224521
     }
   ],
   "topPredicates": [
     {
-      "predicate": "uses",
-      "count": 35913
+      "predicate": "misp-related",
+      "count": 36538
     },
     {
-      "predicate": "misp-related",
-      "count": 35835
+      "predicate": "uses",
+      "count": 36514
     },
     {
       "predicate": "rdf:type",
-      "count": 34121
-    },
-    {
-      "predicate": "galaxy",
-      "count": 34121
+      "count": 34621
     },
     {
       "predicate": "name",
-      "count": 34121
+      "count": 34621
+    },
+    {
+      "predicate": "galaxy",
+      "count": 34621
     },
     {
       "predicate": "description",
-      "count": 29712
+      "count": 30167
     },
     {
       "predicate": "synonym",
-      "count": 5291
+      "count": 5321
     },
     {
       "predicate": "related-attack-id",
-      "count": 5123
+      "count": 5163
     },
     {
       "predicate": "used-by",
-      "count": 2248
+      "count": 2277
     },
     {
       "predicate": "country",
-      "count": 1306
+      "count": 1319
     },
     {
       "predicate": "targets",
-      "count": 926
+      "count": 1017
     },
     {
       "predicate": "targets-country",
@@ -60,7 +60,7 @@
     },
     {
       "predicate": "subtechnique-of",
-      "count": 674
+      "count": 686
     },
     {
       "predicate": "targets-sector",
@@ -89,51 +89,51 @@
   ],
   "topConnectedEntities": [
     {
-      "entity": "references",
-      "count": 5219
-    },
-    {
       "entity": "References",
       "count": 5219
     },
     {
-      "entity": "MalpediaEntry",
-      "count": 3683
+      "entity": "references",
+      "count": 5219
     },
     {
       "entity": "malpedia",
       "count": 3683
     },
     {
-      "entity": "sigma-rules",
-      "count": 3144
+      "entity": "MalpediaEntry",
+      "count": 3683
     },
     {
       "entity": "SigmaRule",
       "count": 3144
     },
     {
+      "entity": "sigma-rules",
+      "count": 3144
+    },
+    {
       "entity": "ransomware",
-      "count": 2768
+      "count": 2813
     },
     {
       "entity": "Ransomware",
-      "count": 2583
-    },
-    {
-      "entity": "veris-framework",
-      "count": 2207
+      "count": 2628
     },
     {
       "entity": "VerisFramework",
       "count": 2207
     },
     {
-      "entity": "naics",
-      "count": 2125
+      "entity": "veris-framework",
+      "count": 2207
     },
     {
       "entity": "Naics",
+      "count": 2125
+    },
+    {
+      "entity": "naics",
       "count": 2125
     },
     {
@@ -150,5 +150,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-11-23T17:17:19Z"
 }

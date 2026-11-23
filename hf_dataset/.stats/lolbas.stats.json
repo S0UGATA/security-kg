@@ -1,64 +1,64 @@
 {
-  "totalTriples": 3768,
-  "uniqueSubjects": 245,
-  "uniqueObjects": 1506,
+  "totalTriples": 3803,
+  "uniqueSubjects": 246,
+  "uniqueObjects": 1518,
   "uniquePredicates": 9,
   "bySource": [
     {
       "source": "lolbas",
-      "count": 3768
+      "count": 3803
     }
   ],
   "topPredicates": [
     {
       "predicate": "full-path",
-      "count": 613
-    },
-    {
-      "predicate": "privileges",
-      "count": 484
-    },
-    {
-      "predicate": "platform",
-      "count": 484
-    },
-    {
-      "predicate": "usecase",
-      "count": 484
-    },
-    {
-      "predicate": "maps-to-technique",
-      "count": 484
+      "count": 615
     },
     {
       "predicate": "category",
-      "count": 484
+      "count": 490
+    },
+    {
+      "predicate": "platform",
+      "count": 490
+    },
+    {
+      "predicate": "usecase",
+      "count": 490
+    },
+    {
+      "predicate": "maps-to-technique",
+      "count": 490
+    },
+    {
+      "predicate": "privileges",
+      "count": 490
     },
     {
       "predicate": "name",
-      "count": 245
+      "count": 246
     },
     {
       "predicate": "rdf:type",
-      "count": 245
+      "count": 246
     },
     {
       "predicate": "description",
-      "count": 245
+      "count": 246
     }
   ],
   "topConnectedEntities": [
     {
       "entity": "User",
-      "count": 420
+      "count": 426
     },
     {
       "entity": "Execute",
-      "count": 262
+      "count": 266
     },
     {
       "entity": "LOLBinary",
-      "count": 245
+      "count": 246
     },
     {
       "entity": "Windows vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11",
@@ -78,7 +78,7 @@
     },
     {
       "entity": "T1105",
-      "count": 71
+      "count": 72
     },
     {
       "entity": "Update.exe",
@@ -86,7 +86,7 @@
     },
     {
       "entity": "Download",
-      "count": 61
+      "count": 62
     },
     {
       "entity": "T1127",
@@ -102,7 +102,7 @@
     },
     {
       "entity": "T1202",
-      "count": 41
+      "count": 43
     },
     {
       "entity": "Wmic.exe",
@@ -110,5 +110,5 @@
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:07Z"
+  "generatedAt": "2026-11-23T17:17:19Z"
 }
