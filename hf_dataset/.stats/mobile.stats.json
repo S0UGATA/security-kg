@@ -1,50 +1,50 @@
 {
-  "totalTriples": 5582,
-  "uniqueSubjects": 530,
-  "uniqueObjects": 2166,
+  "totalTriples": 5673,
+  "uniqueSubjects": 534,
+  "uniqueObjects": 2201,
   "uniquePredicates": 19,
   "bySource": [
     {
       "source": "attack",
-      "count": 5582
+      "count": 5673
     }
   ],
   "topPredicates": [
     {
       "predicate": "uses",
-      "count": 1496
+      "count": 1560
     },
     {
       "predicate": "domain",
-      "count": 478
+      "count": 483
     },
     {
       "predicate": "platform",
-      "count": 435
-    },
-    {
-      "predicate": "url",
-      "count": 406
+      "count": 439
     },
     {
       "predicate": "created",
-      "count": 406
+      "count": 409
     },
     {
       "predicate": "modified",
-      "count": 406
+      "count": 409
+    },
+    {
+      "predicate": "url",
+      "count": 409
     },
     {
       "predicate": "rdf:type",
-      "count": 406
+      "count": 409
     },
     {
       "predicate": "name",
-      "count": 406
+      "count": 409
     },
     {
       "predicate": "description",
-      "count": 391
+      "count": 394
     },
     {
       "predicate": "is-subtechnique",
@@ -56,7 +56,7 @@
     },
     {
       "predicate": "detects",
-      "count": 124
+      "count": 125
     },
     {
       "predicate": "alias",
@@ -76,7 +76,7 @@
     },
     {
       "predicate": "deprecated",
-      "count": 24
+      "count": 23
     },
     {
       "predicate": "shortname",
@@ -90,11 +90,11 @@
   "topConnectedEntities": [
     {
       "entity": "mobile-attack",
-      "count": 406
+      "count": 409
     },
     {
       "entity": "Android",
-      "count": 270
+      "count": 273
     },
     {
       "entity": "Technique",
@@ -106,15 +106,15 @@
     },
     {
       "entity": "Malware",
-      "count": 125
+      "count": 128
     },
     {
       "entity": "T1636.004",
-      "count": 89
+      "count": 90
     },
     {
       "entity": "T1430",
-      "count": 77
+      "count": 78
     },
     {
       "entity": "T1636.003",
@@ -126,6 +126,10 @@
     },
     {
       "entity": "T1429",
+      "count": 68
+    },
+    {
+      "entity": "T1418",
       "count": 67
     },
     {
@@ -133,22 +137,18 @@
       "count": 66
     },
     {
-      "entity": "T1418",
-      "count": 66
+      "entity": "T1437.001",
+      "count": 64
     },
     {
-      "entity": "T1437.001",
-      "count": 62
+      "entity": "T1406",
+      "count": 63
     },
     {
       "entity": "T1422",
       "count": 62
-    },
-    {
-      "entity": "T1406",
-      "count": 61
     }
   ],
   "crossSourceLinks": [],
-  "generatedAt": "2026-09-14T11:45:01Z"
+  "generatedAt": "2026-11-23T17:17:15Z"
 }
